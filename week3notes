@@ -1,0 +1,32 @@
+Re-doing website 
+It is currently really inefficient 
+
+Why images matter
+-size matters
+
+Avg web page is 3mb
+
+go into the images and see the sizes - sort by that
+
+When you first load the page go to the Network tab and refresh the page
+
+by the online/offline bar you can select slow 3g 
+
+
+jpeg is great for like pictures of the woods images with lots of color can't deal with hard transitons
+PNG hard edges and supports transperancy
+SVG just uses math! great for icons and simple stuff
+GIF - Useless!
+
+general compression!!
+	- Lossless compression
+	- GULP-IMAGEMIN in our circus starter is already stripping stuff for us
+	-imageoptim for Mac
+
+Tools Adjust size 
+and can crop too just on the image parts Hit command k to get it sized down
+
+JPG save for web on photoshop you can adjust the quality slider and see the estimated size
+
+PNG PNGquant can compress them for you imageAlpha is a fav - You can reduce the number of colors it can use to reduce it
+
